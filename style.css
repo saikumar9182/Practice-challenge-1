@@ -1,0 +1,76 @@
+body{
+    background-color:  hsl(204, 43%, 93%);
+    font-family: 'Karla', sans-serif;
+    
+}
+.top-box{
+    margin: 10% 25%;
+    margin-bottom: 0;
+    background-color: white;
+    text-align: left;
+    padding-left: 1rem;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+}
+#top-heading{
+    color:  hsl(179, 62%, 43%);
+    padding-top: 1rem;
+}
+h3{
+    color:hsl(71, 73%, 54%);
+}
+p{
+    
+    color: hsl(218, 22%, 67%);
+    line-height: 2;
+    /* padding-block-end: 2em; */
+    margin-block-end: 0em;
+}
+em{
+    font-size: xx-large;
+}
+.monthly-box{
+    background-color: hsl(179, 62%, 43%);
+    /* margin: -114px 25%; */
+    margin-left: 25%;
+    margin-right: 0;
+    margin-top: 0px;
+    padding:1.5rem;
+    /* width:50%; */
+    float:left;
+
+}
+.coloru{
+
+    color:white;
+}
+#remove-margin{
+    margin-top: 0;
+}
+button{
+    padding: 0.7rem 6rem;
+    background-color: hsl(71, 73%, 54%);
+    border-radius: 0.3rem;
+    font-family: 'Karla', sans-serif;
+    font-size: large;
+
+
+}
+.right-box{
+    /* background-color: hsl(218, 22%, 67%); */
+    float:left;
+    background-color: rgb(132, 192, 132);
+    margin-left: auto;
+    padding-right: 3.7rem;
+    padding-left: 2rem;
+
+}
+.right-box p{
+    margin-block-start: 0;
+    color:white;
+    line-height: 2;
+}
+
+.right-box h2{
+    margin-block-end: 0.7em;
+}
